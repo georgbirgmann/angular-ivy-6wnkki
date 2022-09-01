@@ -2,7 +2,7 @@ import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'georg',
-  template: `<h2>Georg &uuml;bt!</h2><p>Das funktioniert auch: {{geheimwert}}</p>`,
+  template: `<h2>Georg &uuml;bt!</h2><p>Das funktioniert auch: </p>`,
   styles: [`h2 { font-family: Lato; }`]
 })
 export class GeorgComponent  {
